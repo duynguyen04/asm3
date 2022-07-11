@@ -1,0 +1,18 @@
+@media screen and (max-width: 768px) {
+    #avatar{
+      display: none;
+    }
+    #nav-bar {
+      display: block;
+    }
+    nav ul{
+      margin-bottom: 0;
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+      margin: 0px;
+    }
+    .target-item {
+      padding: 0;
+    }
+  }
